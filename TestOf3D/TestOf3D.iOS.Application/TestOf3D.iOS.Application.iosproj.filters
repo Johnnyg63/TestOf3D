@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="TestOf3D.iOS">
+      <UniqueIdentifier>{cb41b2e7-af76-405a-bc04-29b5c29d0f21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TestOf3D.iOS\Images.xcassets">
+      <UniqueIdentifier>{7d2b0c38-1694-431d-b4c4-64ba45cebfce}</UniqueIdentifier>
+      <Extensions>TestOf3D.iOS\Images.xcassets\*</Extensions>
+    </Filter>
+    <Filter Include="TestOf3D.iOS\Images.xcassets\AppIcon.appiconset">
+      <UniqueIdentifier>{3a4ffbd7-7ad8-4e34-9f43-b7e8d988648f}</UniqueIdentifier>
+      <Extensions>TestOf3D.iOS\Images.xcassets\AppIcon.appiconset\*</Extensions>
+    </Filter>
+    <Filter Include="TestOf3D.iOS\Supporting Files">
+      <UniqueIdentifier>{9e4eccc9-08e8-4c18-a889-5d3d22404537}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TestOf3D.iOS\Supporting Files\assest">
+      <UniqueIdentifier>{cc54e66a-afcf-4fb1-a772-d03a8b4dd0e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TestOf3D.iOS\Supporting Files\assest\images">
+      <UniqueIdentifier>{44e6d1c6-a73e-459b-a797-365b29077dc3}</UniqueIdentifier>
+      <Extensions>TestOf3D.iOS\assets\images\*</Extensions>
+    </Filter>
+    <Filter Include="TestOf3D.iOS\Supporting Files\assest\maps">
+      <UniqueIdentifier>{e3394816-048d-4cba-8706-c984d30113ad}</UniqueIdentifier>
+      <Extensions>TestOf3D.iOS\assets\maps\*</Extensions>
+    </Filter>
+    <Filter Include="TestOf3D.iOS\Supporting Files\assest\objectfiles">
+      <UniqueIdentifier>{0739ec21-75ac-4ab8-b856-32c576345601}</UniqueIdentifier>
+      <Extensions>TestOf3D.iOS\assets\objectfiles\*</Extensions>
+    </Filter>
+    <Filter Include="TestOf3D.iOS\Supporting Files\assest\sounds">
+      <UniqueIdentifier>{58a0d4b0-44cb-4ffb-8083-7079b141d2b6}</UniqueIdentifier>
+      <Extensions>TestOf3D.iOS\assets\sounds\*</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TestOf3D.iOS\AppDelegate.mm">
+      <Filter>TestOf3D.iOS</Filter>
+    </ClCompile>
+    <ClCompile Include="TestOf3D.iOS\GameViewController.mm">
+      <Filter>TestOf3D.iOS</Filter>
+    </ClCompile>
+    <ClCompile Include="TestOf3D.iOS\ios_native_app_glue.cpp">
+      <Filter>TestOf3D.iOS\Supporting Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TestOf3D.iOS\main.mm">
+      <Filter>TestOf3D.iOS\Supporting Files</Filter>
+    </ClCompile>
+    <ClInclude Include="TestOf3D.iOS\AppDelegate.h">
+      <Filter>TestOf3D.iOS</Filter>
+    </ClInclude>
+    <ClInclude Include="TestOf3D.iOS\GameViewController.h">
+      <Filter>TestOf3D.iOS</Filter>
+    </ClInclude>
+    <ClInclude Include="TestOf3D.iOS\ios_native_app_glue.h">
+      <Filter>TestOf3D.iOS\Supporting Files</Filter>
+    </ClInclude>
+    <Content Include="TestOf3D.iOS\assets\images\car_top.png">
+      <Filter>TestOf3D.iOS\Supporting Files\assest\images</Filter>
+    </Content>
+    <Content Include="TestOf3D.iOS\assets\images\car_top1.png">
+      <Filter>TestOf3D.iOS\Supporting Files\assest\images</Filter>
+    </Content>
+    <Content Include="TestOf3D.iOS\assets\images\City_Roads1_mip0.png">
+      <Filter>TestOf3D.iOS\Supporting Files\assest\images</Filter>
+    </Content>
+    <Content Include="TestOf3D.iOS\assets\images\dirtblock.png">
+      <Filter>TestOf3D.iOS\Supporting Files\assest\images</Filter>
+    </Content>
+    <Content Include="TestOf3D.iOS\assets\images\north_south_east_west_logo.png">
+      <Filter>TestOf3D.iOS\Supporting Files\assest\images</Filter>
+    </Content>
+    <Content Include="TestOf3D.iOS\assets\images\olcpgemobilelogo.png">
+      <Filter>TestOf3D.iOS\Supporting Files\assest\images</Filter>
+    </Content>
+    <Content Include="TestOf3D.iOS\assets\maps\example1.city">
+      <Filter>TestOf3D.iOS\Supporting Files\assest\maps</Filter>
+    </Content>
+    <Content Include="TestOf3D.iOS\assets\objectfiles\unitcube.obj">
+      <Filter>TestOf3D.iOS\Supporting Files\assest\objectfiles</Filter>
+    </Content>
+    <Content Include="TestOf3D.iOS\assets\sounds\SampleA.wav">
+      <Filter>TestOf3D.iOS\Supporting Files\assest\sounds</Filter>
+    </Content>
+    <Content Include="TestOf3D.iOS\assets\sounds\SampleB.wav">
+      <Filter>TestOf3D.iOS\Supporting Files\assest\sounds</Filter>
+    </Content>
+    <Content Include="TestOf3D.iOS\assets\sounds\SampleC.wav">
+      <Filter>TestOf3D.iOS\Supporting Files\assest\sounds</Filter>
+    </Content>
+    <Content Include="TestOf3D.iOS\assets\sounds\Sample_Test_44100.wav">
+      <Filter>TestOf3D.iOS\Supporting Files\assest\sounds</Filter>
+    </Content>
+    <Content Include="TestOf3D.iOS\assets\sounds\Sample_Test_48000.wav">
+      <Filter>TestOf3D.iOS\Supporting Files\assest\sounds</Filter>
+    </Content>
+    <Content Include="TestOf3D.iOS\assets\sounds\song1.mp3">
+      <Filter>TestOf3D.iOS\Supporting Files\assest\sounds</Filter>
+    </Content>
+    <Content Include="TestOf3D.iOS\assets\sounds\testmusic.mp3">
+      <Filter>TestOf3D.iOS\Supporting Files\assest\sounds</Filter>
+    </Content>
+    <Content Include="TestOf3D.iOS\Base.lproj\Main.storyboard">
+      <Filter>TestOf3D.iOS</Filter>
+    </Content>
+    <Content Include="TestOf3D.iOS\Images.xcassets\AppIcon.appiconset\Contents.json">
+      <Filter>TestOf3D.iOS\Images.xcassets\AppIcon.appiconset</Filter>
+    </Content>
+    <InfoPlist Include="TestOf3D.iOS\Info.plist">
+      <Filter>TestOf3D.iOS\Supporting Files\assest</Filter>
+    </InfoPlist>
+  </ItemGroup>
+</Project>
