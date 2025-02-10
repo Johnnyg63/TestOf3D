@@ -374,11 +374,11 @@
 					};
 				};
 				VC_Properties = {
-                    VC_ProjectGuid = 345dd5e5-711b-4e59-a23c-892ed47bd98c;
-                    VC_ProjectReferences = {
-                        3fbf3c7b-88c6-4eb0-a2f5-d076fd2f7d1b="..\\OLCPGEMobile\\TestOf3D.iOS.StaticLibrary\\TestOf3D.iOS.StaticLibrary.vcxproj";
-                    };
-                };
+					VC_ProjectGuid = 345dd5e5-711b-4e59-a23c-892ed47bd98c;
+					VC_ProjectReferences = {
+						3fbf3c7b-88c6-4eb0-a2f5-d076fd2f7d1b = "..\\OLCPGEMobile\\TestOf3D.iOS.StaticLibrary\\TestOf3D.iOS.StaticLibrary.vcxproj";
+					};
+				};
 			};
 			projectRoot = "";
 			targets = (

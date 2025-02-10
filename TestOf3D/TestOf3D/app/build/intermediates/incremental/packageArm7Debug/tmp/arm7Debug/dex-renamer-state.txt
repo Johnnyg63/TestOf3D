@@ -1,0 +1,7 @@
+#Mon Feb 10 15:43:52 GMT 2025
+base.1=C\:\\Users\\jgalv\\source\\repos\\Cpp20Course\\TestOf3D\\TestOf3D\\TestOf3D\\app\\build\\intermediates\\dex\\arm7Debug\\mergeProjectDexArm7Debug\\1\\classes.dex
+path.1=1/classes.dex
+base.0=C\:\\Users\\jgalv\\source\\repos\\Cpp20Course\\TestOf3D\\TestOf3D\\TestOf3D\\app\\build\\intermediates\\dex\\arm7Debug\\mergeProjectDexArm7Debug\\0\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=0/classes.dex

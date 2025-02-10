@@ -112,4 +112,12 @@
       <Filter>TestOf3D.iOS\Supporting Files\assest</Filter>
     </InfoPlist>
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="TestOf3D.iOS\assets\images\clay.png">
+      <Filter>TestOf3D.iOS\Supporting Files\assest\images</Filter>
+    </Content>
+    <Content Include="TestOf3D.iOS\assets\objectfiles\teapot.obj">
+      <Filter>TestOf3D.iOS\Supporting Files\assest\objectfiles</Filter>
+    </Content>
+  </ItemGroup>
 </Project>

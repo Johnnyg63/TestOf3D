@@ -56,51 +56,51 @@
   <Import Project="$(AndroidTargetsPath)\Android.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
-	<LaunchActivity>android.app.NativeActivity</LaunchActivity>
+    <LaunchActivity>android.app.NativeActivity</LaunchActivity>
     <DebuggerFlavor>AndroidDebugger</DebuggerFlavor>
-	<AndroidAPILevel>android-29</AndroidAPILevel>
+    <AndroidAPILevel>android-29</AndroidAPILevel>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|ARM64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
-	<LaunchActivity>android.app.NativeActivity</LaunchActivity>
+    <LaunchActivity>android.app.NativeActivity</LaunchActivity>
     <DebuggerFlavor>AndroidDebugger</DebuggerFlavor>
-	<AndroidAPILevel>android-29</AndroidAPILevel>
+    <AndroidAPILevel>android-29</AndroidAPILevel>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|ARM'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
-	<LaunchActivity>android.app.NativeActivity</LaunchActivity>
+    <LaunchActivity>android.app.NativeActivity</LaunchActivity>
     <DebuggerFlavor>AndroidDebugger</DebuggerFlavor>
-	<AndroidAPILevel>android-29</AndroidAPILevel>
+    <AndroidAPILevel>android-29</AndroidAPILevel>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|ARM'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
-	<LaunchActivity>android.app.NativeActivity</LaunchActivity>
+    <LaunchActivity>android.app.NativeActivity</LaunchActivity>
     <DebuggerFlavor>AndroidDebugger</DebuggerFlavor>
-	<AndroidAPILevel>android-29</AndroidAPILevel>
+    <AndroidAPILevel>android-29</AndroidAPILevel>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
-	<LaunchActivity>android.app.NativeActivity</LaunchActivity>
+    <LaunchActivity>android.app.NativeActivity</LaunchActivity>
     <DebuggerFlavor>AndroidDebugger</DebuggerFlavor>
-	<AndroidAPILevel>android-29</AndroidAPILevel>
+    <AndroidAPILevel>android-29</AndroidAPILevel>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
-	<LaunchActivity>android.app.NativeActivity</LaunchActivity>
+    <LaunchActivity>android.app.NativeActivity</LaunchActivity>
     <DebuggerFlavor>AndroidDebugger</DebuggerFlavor>
-	<AndroidAPILevel>android-29</AndroidAPILevel>
+    <AndroidAPILevel>android-29</AndroidAPILevel>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x86'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
-	<LaunchActivity>android.app.NativeActivity</LaunchActivity>
+    <LaunchActivity>android.app.NativeActivity</LaunchActivity>
     <DebuggerFlavor>AndroidDebugger</DebuggerFlavor>
-	<AndroidAPILevel>android-29</AndroidAPILevel>
+    <AndroidAPILevel>android-29</AndroidAPILevel>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x86'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
-	<LaunchActivity>android.app.NativeActivity</LaunchActivity>
+    <LaunchActivity>android.app.NativeActivity</LaunchActivity>
     <DebuggerFlavor>AndroidDebugger</DebuggerFlavor>
-	<AndroidAPILevel>android-29</AndroidAPILevel>
+    <AndroidAPILevel>android-29</AndroidAPILevel>
   </PropertyGroup>
   <Import Project="$(AndroidTargetsPath)\Android.props" />
   <ItemDefinitionGroup>
@@ -114,14 +114,15 @@
     <GradleTemplate Include="app\build.gradle.template" />
     <GradleTemplate Include="app\src\main\AndroidManifest.xml.template" />
     <GradleTemplate Include="build.gradle.template" />
-    <GradleTemplate Include="settings.gradle.template"/>
+    <GradleTemplate Include="settings.gradle.template" />
     <GradleTemplate Include="gradle\wrapper\gradle-wrapper.properties.template" />
   </ItemGroup>
   <ItemGroup>
     <JavaCompile Include="app\src\main\java\com\TestOf3D\TestOf3D.java" />
   </ItemGroup>
   <ItemGroup>
-	<Content Include="app\proguard-rules.pro" />
+    <Content Include="app\proguard-rules.pro" />
+    <Content Include="app\src\main\assets\images\clay.png" />
     <Content Include="app\src\main\assets\images\north_south_east_west_logo.png" />
     <Content Include="app\src\main\assets\images\car_top.png" />
     <Content Include="app\src\main\assets\images\car_top1.png" />
@@ -129,6 +130,7 @@
     <Content Include="app\src\main\assets\images\dirtblock.png" />
     <Content Include="app\src\main\assets\images\olcpgemobilelogo.png" />
     <Content Include="app\src\main\assets\maps\example1.city" />
+    <Content Include="app\src\main\assets\objectfiles\teapot.obj" />
     <Content Include="app\src\main\assets\objectfiles\unitcube.obj" />
     <Content Include="app\src\main\assets\sounds\Sample_Test_44100.wav" />
     <Content Include="app\src\main\assets\sounds\Sample_Test_48000.wav" />

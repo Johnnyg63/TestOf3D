@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<payload>
+  <file path="C:\Users\jgalv\source\repos\Cpp20Course\TestOf3D\TestOf3D\OLCPGEMobile\TestOf3D.iOS.StaticLibrary\ARM\Debug\TestOf3D.iOS.StaticLibrary.xcodeproj\project.pbxproj" changed="2025-02-10T15:43:34.9619061+00:00" />
+  <file path="C:\Users\jgalv\source\repos\Cpp20Course\TestOf3D\TestOf3D\OLCPGEMobile\TestOf3D.Shared\main.cpp" changed="2025-02-10T15:43:30.3723698+00:00" />
+  <file path="C:\Users\jgalv\source\repos\Cpp20Course\TestOf3D\TestOf3D\OLCPGEMobile\TestOf3D.Shared\ios_native_app_glue.h" changed="2024-06-18T16:45:56+01:00" />
+  <file path="C:\Users\jgalv\source\repos\Cpp20Course\TestOf3D\TestOf3D\OLCPGEMobile\TestOf3D.Shared\miniaudio.h" changed="2024-06-18T15:41:34+01:00" />
+  <file path="C:\Users\jgalv\source\repos\Cpp20Course\TestOf3D\TestOf3D\OLCPGEMobile\TestOf3D.Shared\olcPGEX_MiniAudio.h" changed="2024-06-18T16:45:56+01:00" />
+  <file path="C:\Users\jgalv\source\repos\Cpp20Course\TestOf3D\TestOf3D\OLCPGEMobile\TestOf3D.Shared\olcPixelGameEngine_Mobile.h" changed="2025-02-10T14:47:27.5992383+00:00" />
+  <file path="C:\Users\jgalv\source\repos\Cpp20Course\TestOf3D\TestOf3D\OLCPGEMobile\TestOf3D.Shared\olcUTIL_Hardware3D.h" changed="2025-02-10T14:52:16.3365647+00:00" />
+  <file path="C:\Users\jgalv\source\repos\Cpp20Course\TestOf3D\TestOf3D\OLCPGEMobile\TestOf3D.Shared\sse2neon.h" changed="2024-06-18T15:41:34+01:00" />
+  <file path="C:\Users\jgalv\source\repos\Cpp20Course\TestOf3D\TestOf3D\OLCPGEMobile\TestOf3D.Shared\stb_image.h" changed="2024-06-18T15:41:34+01:00" />
+  <file path="C:\Users\jgalv\source\repos\Cpp20Course\TestOf3D\TestOf3D\OLCPGEMobile\TestOf3D.iOS.StaticLibrary\pch.h" changed="2025-02-09T18:02:09.1593453+00:00" />
+  <file path="C:\Users\jgalv\source\repos\Cpp20Course\TestOf3D\TestOf3D\OLCPGEMobile\TestOf3D.Shared\EGL\egl.h" changed="2024-06-18T15:41:34+01:00" />
+  <file path="C:\Users\jgalv\source\repos\Cpp20Course\TestOf3D\TestOf3D\OLCPGEMobile\TestOf3D.Shared\EGL\eglext.h" changed="2024-06-18T15:41:34+01:00" />
+  <file path="C:\Users\jgalv\source\repos\Cpp20Course\TestOf3D\TestOf3D\OLCPGEMobile\TestOf3D.Shared\EGL\eglext_angle.h" changed="2024-06-18T15:41:34+01:00" />
+  <file path="C:\Users\jgalv\source\repos\Cpp20Course\TestOf3D\TestOf3D\OLCPGEMobile\TestOf3D.Shared\EGL\eglplatform.h" changed="2024-06-18T15:41:34+01:00" />
+  <file path="C:\Users\jgalv\source\repos\Cpp20Course\TestOf3D\TestOf3D\OLCPGEMobile\TestOf3D.Shared\EGL\Platform.h" changed="2024-06-18T15:41:34+01:00" />
+  <file path="C:\Users\jgalv\source\repos\Cpp20Course\TestOf3D\TestOf3D\OLCPGEMobile\TestOf3D.Shared\KHR\khrplatform.h" changed="2024-06-18T15:41:34+01:00" />
+  <file path="C:\Users\jgalv\source\repos\Cpp20Course\TestOf3D\TestOf3D\OLCPGEMobile\TestOf3D.iOS.StaticLibrary\ARM64\Debug\TestOf3D.iOS.StaticLibrary.xcodeproj\project.pbxproj" changed="2025-02-10T14:50:45.5352653+00:00" />
+</payload>
